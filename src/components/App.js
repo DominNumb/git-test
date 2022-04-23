@@ -11,6 +11,7 @@ export default function App() {
         <br />
         <button>Login</button>
         <button>Register</button>
+        <button>Close</button>
       </div>
     </div>
   )
