@@ -1,12 +1,16 @@
-import './App.css'
+import '../App.css'
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Please LogIn</h1>
-      <input value="" placeholder="Username" />
-      <input type="password" value="" placeholder="Password" />
-      <button>Login</button>
+      <div style={{ background: 'grey' }}>
+        <h1 style={{ color: 'white' }}>Please LogIn</h1>
+        <input value="" placeholder="Username" />
+        <br />
+        <input type="password" value="" placeholder="Password" />
+        <br />
+        <button>Login</button>
+      </div>
     </div>
   )
 }
