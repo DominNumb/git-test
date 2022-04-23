@@ -10,6 +10,7 @@ export default function App() {
         <input type="password" value="" placeholder="Password" />
         <br />
         <button>Login</button>
+        <br />
         <button>Register</button>
       </div>
     </div>
