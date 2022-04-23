@@ -13,7 +13,7 @@ export default function App() {
         <br />
         <button>Register</button>
         <br />
-        <button>Close</button>
+        <button>Refresh App</button>
       </div>
     </div>
   )
