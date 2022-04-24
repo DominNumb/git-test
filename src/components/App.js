@@ -11,7 +11,7 @@ export default function App() {
         <br />
         <button>Login</button>
         <br />
-        <button>Register</button>
+        <button onClick={RegisterPage.js}>Register</button>
         <br />
         <button>Refresh App</button>
         <br />
