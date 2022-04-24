@@ -11,10 +11,6 @@ export default function App() {
         <br />
         <button>Login</button>
         <button>Register</button>
-        <br />
-        <button>Refresh App</button>
-        <button>Close App</button>
-        <br />
       </div>
     </div>
   )
