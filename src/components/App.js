@@ -14,6 +14,7 @@ export default function App() {
         <button>Register</button>
         <br />
         <button>Refresh App</button>
+        <br />
       </div>
     </div>
   )
