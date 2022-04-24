@@ -16,6 +16,7 @@ export default function App() {
         <button>Refresh App</button>
         <br />
         <button>Close App</button>
+        <br />
       </div>
     </div>
   )
