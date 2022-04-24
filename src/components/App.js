@@ -5,9 +5,9 @@ export default function App() {
     <div className="App">
       <div style={{ background: 'grey' }}>
         <h1 style={{ color: 'white' }}>Nadpis</h1>
-        <input type="text" value="" placeholder="Type username" />
+        <input type="text" placeholder="Type username" />
         <br />
-        <input type="password" value="" placeholder="Type password" />
+        <input type="password" placeholder="Type password" />
         <br />
         <button>Login</button>
         <br />
