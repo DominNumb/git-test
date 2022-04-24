@@ -9,7 +9,7 @@ export default function App() {
         <br />
         <input type="password" value="" placeholder="Type password" />
         <br />
-        <button>Login</button>
+        <button onClick={LoginPage.js}>Login</button>
         <br />
         <button onClick={RegisterPage.js}>Register</button>
         <br />
