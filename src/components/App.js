@@ -9,9 +9,9 @@ export default function App() {
         <br />
         <input type="password" value="" placeholder="Type password" />
         <br />
-        <button onClick={LoginPage.js}>Login</button>
+        <button>Login</button>
         <br />
-        <button onClick={RegisterPage.js}>Register</button>
+        <button>Register</button>
         <br />
         <button>Refresh App</button>
         <br />
