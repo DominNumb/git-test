@@ -1,6 +1,6 @@
 # GitHub and Git test
 
-## Readme file. Just for test
+#### Readme file. Just for test
 
 Jenom testuju funkce gitu a githubu
 
