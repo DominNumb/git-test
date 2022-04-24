@@ -10,11 +10,11 @@ export default function App() {
         <input type="password" placeholder="Type password" />
         <br />
         <button>Login</button>
-        <br />
+
         <button>Register</button>
         <br />
         <button>Refresh App</button>
-        <br />
+
         <button>Close App</button>
         <br />
       </div>
