@@ -3,14 +3,18 @@ import '../App.css'
 export default function App() {
   return (
     <div className="App">
-      <div style={{ background: 'grey' }}>
+      <div style={{ margin: 100 }}>
         <h1 style={{ color: 'white' }}>Nadpis</h1>
-        <input type="text" placeholder="Type username" />
+        <input style={{ margin: 5 }} type="text" placeholder="Type username" />
         <br />
-        <input type="password" placeholder="Type password" />
+        <input
+          style={{ margin: 5 }}
+          type="password"
+          placeholder="Type password"
+        />
         <br />
-        <button>Login</button>
-        <button>Register</button>
+        <button style={{ margin: 5 }}>Login</button>
+        <button style={{ margin: 5 }}>Register</button>
       </div>
     </div>
   )
